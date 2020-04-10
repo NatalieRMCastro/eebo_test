@@ -1,0 +1,405 @@
+[submodule "texts/B36"]
+	path = texts/B36
+	url = git@bitbucket.org:eplib/B36.git
+[submodule "texts/A00"]
+	path = texts/A00
+	url = git@bitbucket.org:eplib/A00.git
+[submodule "texts/A01"]
+	path = texts/A01
+	url = git@bitbucket.org:eplib/A01.git
+[submodule "texts/A02"]
+	path = texts/A02
+	url = git@bitbucket.org:eplib/A02.git
+[submodule "texts/A03"]
+	path = texts/A03
+	url = git@bitbucket.org:eplib/A03.git
+[submodule "texts/A04"]
+	path = texts/A04
+	url = git@bitbucket.org:eplib/A04.git
+[submodule "texts/A05"]
+	path = texts/A05
+	url = git@bitbucket.org:eplib/A05.git
+[submodule "texts/A06"]
+	path = texts/A06
+	url = git@bitbucket.org:eplib/A06.git
+[submodule "texts/A07"]
+	path = texts/A07
+	url = git@bitbucket.org:eplib/A07.git
+[submodule "texts/A08"]
+	path = texts/A08
+	url = git@bitbucket.org:eplib/A08.git
+[submodule "texts/A09"]
+	path = texts/A09
+	url = git@bitbucket.org:eplib/A09.git
+[submodule "texts/A10"]
+	path = texts/A10
+	url = git@bitbucket.org:eplib/A10.git
+[submodule "texts/A11"]
+	path = texts/A11
+	url = git@bitbucket.org:eplib/A11.git
+[submodule "texts/A12"]
+	path = texts/A12
+	url = git@bitbucket.org:eplib/A12.git
+[submodule "texts/A13"]
+	path = texts/A13
+	url = git@bitbucket.org:eplib/A13.git
+[submodule "texts/A14"]
+	path = texts/A14
+	url = git@bitbucket.org:eplib/A14.git
+[submodule "texts/A15"]
+	path = texts/A15
+	url = git@bitbucket.org:eplib/A15.git
+[submodule "texts/A16"]
+	path = texts/A16
+	url = git@bitbucket.org:eplib/A16.git
+[submodule "texts/A17"]
+	path = texts/A17
+	url = git@bitbucket.org:eplib/A17.git
+[submodule "texts/A18"]
+	path = texts/A18
+	url = git@bitbucket.org:eplib/A18.git
+[submodule "texts/A19"]
+	path = texts/A19
+	url = git@bitbucket.org:eplib/A19.git
+[submodule "texts/A20"]
+	path = texts/A20
+	url = git@bitbucket.org:eplib/A20.git
+[submodule "texts/A21"]
+	path = texts/A21
+	url = git@bitbucket.org:eplib/A21.git
+[submodule "texts/A22"]
+	path = texts/A22
+	url = git@bitbucket.org:eplib/A22.git
+[submodule "texts/A23"]
+	path = texts/A23
+	url = git@bitbucket.org:eplib/A23.git
+[submodule "texts/A24"]
+	path = texts/A24
+	url = git@bitbucket.org:eplib/A24.git
+[submodule "texts/A25"]
+	path = texts/A25
+	url = git@bitbucket.org:eplib/A25.git
+[submodule "texts/A26"]
+	path = texts/A26
+	url = git@bitbucket.org:eplib/A26.git
+[submodule "texts/A27"]
+	path = texts/A27
+	url = git@bitbucket.org:eplib/A27.git
+[submodule "texts/A28"]
+	path = texts/A28
+	url = git@bitbucket.org:eplib/A28.git
+[submodule "texts/A29"]
+	path = texts/A29
+	url = git@bitbucket.org:eplib/A29.git
+[submodule "texts/A30"]
+	path = texts/A30
+	url = git@bitbucket.org:eplib/A30.git
+[submodule "texts/A31"]
+	path = texts/A31
+	url = git@bitbucket.org:eplib/A31.git
+[submodule "texts/A32"]
+	path = texts/A32
+	url = git@bitbucket.org:eplib/A32.git
+[submodule "texts/A33"]
+	path = texts/A33
+	url = git@bitbucket.org:eplib/A33.git
+[submodule "texts/A34"]
+	path = texts/A34
+	url = git@bitbucket.org:eplib/A34.git
+[submodule "texts/A35"]
+	path = texts/A35
+	url = git@bitbucket.org:eplib/A35.git
+[submodule "texts/A36"]
+	path = texts/A36
+	url = git@bitbucket.org:eplib/A36.git
+[submodule "texts/A37"]
+	path = texts/A37
+	url = git@bitbucket.org:eplib/A37.git
+[submodule "texts/A38"]
+	path = texts/A38
+	url = git@bitbucket.org:eplib/A38.git
+[submodule "texts/A39"]
+	path = texts/A39
+	url = git@bitbucket.org:eplib/A39.git
+[submodule "texts/A40"]
+	path = texts/A40
+	url = git@bitbucket.org:eplib/A40.git
+[submodule "texts/A41"]
+	path = texts/A41
+	url = git@bitbucket.org:eplib/A41.git
+[submodule "texts/A42"]
+	path = texts/A42
+	url = git@bitbucket.org:eplib/A42.git
+[submodule "texts/A43"]
+	path = texts/A43
+	url = git@bitbucket.org:eplib/A43.git
+[submodule "texts/A44"]
+	path = texts/A44
+	url = git@bitbucket.org:eplib/A44.git
+[submodule "texts/A45"]
+	path = texts/A45
+	url = git@bitbucket.org:eplib/A45.git
+[submodule "texts/A46"]
+	path = texts/A46
+	url = git@bitbucket.org:eplib/A46.git
+[submodule "texts/A47"]
+	path = texts/A47
+	url = git@bitbucket.org:eplib/A47.git
+[submodule "texts/A48"]
+	path = texts/A48
+	url = git@bitbucket.org:eplib/A48.git
+[submodule "texts/A49"]
+	path = texts/A49
+	url = git@bitbucket.org:eplib/A49.git
+[submodule "texts/A50"]
+	path = texts/A50
+	url = git@bitbucket.org:eplib/A50.git
+[submodule "texts/A51"]
+	path = texts/A51
+	url = git@bitbucket.org:eplib/A51.git
+[submodule "texts/A52"]
+	path = texts/A52
+	url = git@bitbucket.org:eplib/A52.git
+[submodule "texts/A53"]
+	path = texts/A53
+	url = git@bitbucket.org:eplib/A53.git
+[submodule "texts/A54"]
+	path = texts/A54
+	url = git@bitbucket.org:eplib/A54.git
+[submodule "texts/A55"]
+	path = texts/A55
+	url = git@bitbucket.org:eplib/A55.git
+[submodule "texts/A56"]
+	path = texts/A56
+	url = git@bitbucket.org:eplib/A56.git
+[submodule "texts/A57"]
+	path = texts/A57
+	url = git@bitbucket.org:eplib/A57.git
+[submodule "texts/A58"]
+	path = texts/A58
+	url = git@bitbucket.org:eplib/A58.git
+[submodule "texts/A59"]
+	path = texts/A59
+	url = git@bitbucket.org:eplib/A59.git
+[submodule "texts/A60"]
+	path = texts/A60
+	url = git@bitbucket.org:eplib/A60.git
+[submodule "texts/A61"]
+	path = texts/A61
+	url = git@bitbucket.org:eplib/A61.git
+[submodule "texts/A62"]
+	path = texts/A62
+	url = git@bitbucket.org:eplib/A62.git
+[submodule "texts/A63"]
+	path = texts/A63
+	url = git@bitbucket.org:eplib/A63.git
+[submodule "texts/A64"]
+	path = texts/A64
+	url = git@bitbucket.org:eplib/A64.git
+[submodule "texts/A65"]
+	path = texts/A65
+	url = git@bitbucket.org:eplib/A65.git
+[submodule "texts/A66"]
+	path = texts/A66
+	url = git@bitbucket.org:eplib/A66.git
+[submodule "texts/A67"]
+	path = texts/A67
+	url = git@bitbucket.org:eplib/A67.git
+[submodule "texts/A68"]
+	path = texts/A68
+	url = git@bitbucket.org:eplib/A68.git
+[submodule "texts/A69"]
+	path = texts/A69
+	url = git@bitbucket.org:eplib/A69.git
+[submodule "texts/A70"]
+	path = texts/A70
+	url = git@bitbucket.org:eplib/A70.git
+[submodule "texts/A71"]
+	path = texts/A71
+	url = git@bitbucket.org:eplib/A71.git
+[submodule "texts/A72"]
+	path = texts/A72
+	url = git@bitbucket.org:eplib/A72.git
+[submodule "texts/A73"]
+	path = texts/A73
+	url = git@bitbucket.org:eplib/A73.git
+[submodule "texts/A74"]
+	path = texts/A74
+	url = git@bitbucket.org:eplib/A74.git
+[submodule "texts/A75"]
+	path = texts/A75
+	url = git@bitbucket.org:eplib/A75.git
+[submodule "texts/A76"]
+	path = texts/A76
+	url = git@bitbucket.org:eplib/A76.git
+[submodule "texts/A77"]
+	path = texts/A77
+	url = git@bitbucket.org:eplib/A77.git
+[submodule "texts/A78"]
+	path = texts/A78
+	url = git@bitbucket.org:eplib/A78.git
+[submodule "texts/A79"]
+	path = texts/A79
+	url = git@bitbucket.org:eplib/A79.git
+[submodule "texts/A80"]
+	path = texts/A80
+	url = git@bitbucket.org:eplib/A80.git
+[submodule "texts/A81"]
+	path = texts/A81
+	url = git@bitbucket.org:eplib/A81.git
+[submodule "texts/A82"]
+	path = texts/A82
+	url = git@bitbucket.org:eplib/A82.git
+[submodule "texts/A83"]
+	path = texts/A83
+	url = git@bitbucket.org:eplib/A83.git
+[submodule "texts/A84"]
+	path = texts/A84
+	url = git@bitbucket.org:eplib/A84.git
+[submodule "texts/A85"]
+	path = texts/A85
+	url = git@bitbucket.org:eplib/A85.git
+[submodule "texts/A86"]
+	path = texts/A86
+	url = git@bitbucket.org:eplib/A86.git
+[submodule "texts/A87"]
+	path = texts/A87
+	url = git@bitbucket.org:eplib/A87.git
+[submodule "texts/A88"]
+	path = texts/A88
+	url = git@bitbucket.org:eplib/A88.git
+[submodule "texts/A89"]
+	path = texts/A89
+	url = git@bitbucket.org:eplib/A89.git
+[submodule "texts/A90"]
+	path = texts/A90
+	url = git@bitbucket.org:eplib/A90.git
+[submodule "texts/A91"]
+	path = texts/A91
+	url = git@bitbucket.org:eplib/A91.git
+[submodule "texts/A92"]
+	path = texts/A92
+	url = git@bitbucket.org:eplib/A92.git
+[submodule "texts/A93"]
+	path = texts/A93
+	url = git@bitbucket.org:eplib/A93.git
+[submodule "texts/A94"]
+	path = texts/A94
+	url = git@bitbucket.org:eplib/A94.git
+[submodule "texts/A95"]
+	path = texts/A95
+	url = git@bitbucket.org:eplib/A95.git
+[submodule "texts/A96"]
+	path = texts/A96
+	url = git@bitbucket.org:eplib/A96.git
+[submodule "texts/A97"]
+	path = texts/A97
+	url = git@bitbucket.org:eplib/A97.git
+[submodule "texts/A99"]
+	path = texts/A99
+	url = git@bitbucket.org:eplib/A99.git
+[submodule "texts/B00"]
+	path = texts/B00
+	url = git@bitbucket.org:eplib/B00.git
+[submodule "texts/B01"]
+	path = texts/B01
+	url = git@bitbucket.org:eplib/B01.git
+[submodule "texts/B02"]
+	path = texts/B02
+	url = git@bitbucket.org:eplib/B02.git
+[submodule "texts/B03"]
+	path = texts/B03
+	url = git@bitbucket.org:eplib/B03.git
+[submodule "texts/B04"]
+	path = texts/B04
+	url = git@bitbucket.org:eplib/B04.git
+[submodule "texts/B05"]
+	path = texts/B05
+	url = git@bitbucket.org:eplib/B05.git
+[submodule "texts/B06"]
+	path = texts/B06
+	url = git@bitbucket.org:eplib/B06.git
+[submodule "texts/B07"]
+	path = texts/B07
+	url = git@bitbucket.org:eplib/B07.git
+[submodule "texts/B08"]
+	path = texts/B08
+	url = git@bitbucket.org:eplib/B08.git
+[submodule "texts/B09"]
+	path = texts/B09
+	url = git@bitbucket.org:eplib/B09.git
+[submodule "texts/B10"]
+	path = texts/B10
+	url = git@bitbucket.org:eplib/B10.git
+[submodule "texts/B11"]
+	path = texts/B11
+	url = git@bitbucket.org:eplib/B11.git
+[submodule "texts/B12"]
+	path = texts/B12
+	url = git@bitbucket.org:eplib/B12.git
+[submodule "texts/B13"]
+	path = texts/B13
+	url = git@bitbucket.org:eplib/B13.git
+[submodule "texts/B14"]
+	path = texts/B14
+	url = git@bitbucket.org:eplib/B14.git
+[submodule "texts/B15"]
+	path = texts/B15
+	url = git@bitbucket.org:eplib/B15.git
+[submodule "texts/B16"]
+	path = texts/B16
+	url = git@bitbucket.org:eplib/B16.git
+[submodule "texts/B17"]
+	path = texts/B17
+	url = git@bitbucket.org:eplib/B17.git
+[submodule "texts/B18"]
+	path = texts/B18
+	url = git@bitbucket.org:eplib/B18.git
+[submodule "texts/B19"]
+	path = texts/B19
+	url = git@bitbucket.org:eplib/B19.git
+[submodule "texts/B20"]
+	path = texts/B20
+	url = git@bitbucket.org:eplib/B20.git
+[submodule "texts/B21"]
+	path = texts/B21
+	url = git@bitbucket.org:eplib/B21.git
+[submodule "texts/B22"]
+	path = texts/B22
+	url = git@bitbucket.org:eplib/B22.git
+[submodule "texts/B23"]
+	path = texts/B23
+	url = git@bitbucket.org:eplib/B23.git
+[submodule "texts/B24"]
+	path = texts/B24
+	url = git@bitbucket.org:eplib/B24.git
+[submodule "texts/B25"]
+	path = texts/B25
+	url = git@bitbucket.org:eplib/B25.git
+[submodule "texts/B26"]
+	path = texts/B26
+	url = git@bitbucket.org:eplib/B26.git
+[submodule "texts/B27"]
+	path = texts/B27
+	url = git@bitbucket.org:eplib/B27.git
+[submodule "texts/B28"]
+	path = texts/B28
+	url = git@bitbucket.org:eplib/B28.git
+[submodule "texts/B29"]
+	path = texts/B29
+	url = git@bitbucket.org:eplib/B29.git
+[submodule "texts/B30"]
+	path = texts/B30
+	url = git@bitbucket.org:eplib/B30.git
+[submodule "texts/B31"]
+	path = texts/B31
+	url = git@bitbucket.org:eplib/B31.git
+[submodule "texts/B32"]
+	path = texts/B32
+	url = git@bitbucket.org:eplib/B32.git
+[submodule "texts/B33"]
+	path = texts/B33
+	url = git@bitbucket.org:eplib/B33.git
+[submodule "texts/B34"]
+	path = texts/B34
+	url = git@bitbucket.org:eplib/B34.git
