@@ -30,7 +30,7 @@ With or without a BitBucket account, you may use the HTTPS URL to clone:
     git submodule init
 
 At this point there is an additional step in which you must replace every
-occurrence of `git\@bitbucket.org:` with `https://bitbucket.org/` in the git
+occurrence of `git@bitbucket.org:` with `https://bitbucket.org/` in the git
 configuration file located at `.git/config`.  This step is necessary to convert the
 git URLs for all the subrepositories to HTTPS URLs.  If you have Perl, this can be
 done from the command line like so:
