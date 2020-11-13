@@ -25,8 +25,8 @@ sure that "Recurse submodules" is checked.
 
 With or without a BitBucket account, you may use the HTTPS URL to clone:
 
-    git clone git clone https://bitbucket.org/eplib/eebotcp.git eebotcp
-    cd phase1texts
+    git clone https://bitbucket.org/eplib/eebotcp.git eebotcp
+    cd eebotcp
     git submodule init
 
 At this point there is an additional step in which you must replace every
