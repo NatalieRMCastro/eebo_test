@@ -41,6 +41,7 @@ or use a global search and replace in your favorite text editor.  Finally,
 complete your local repository initiation with:
 
     git submodule update
+    git submodule foreach 'git checkout master'
 
 ## Formatting Pre-commit Hook
 
