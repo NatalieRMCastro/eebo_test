@@ -415,3 +415,6 @@
 [submodule "texts/B44"]
 	path = texts/B44
 	url = git@bitbucket.org:eplib/B44.git
+[submodule "texts/B42"]
+	path = texts/B42
+	url = git@bitbucket.org:eplib/B42.git
