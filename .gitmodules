@@ -418,3 +418,6 @@
 [submodule "texts/B42"]
 	path = texts/B42
 	url = git@bitbucket.org:eplib/B42.git
+[submodule "texts/E15"]
+	path = texts/E15
+	url = git@bitbucket.org:eplib/E15.git
