@@ -3,7 +3,7 @@
 	url = git@bitbucket.org:eplib/B36.git
 [submodule "texts/A00"]
 	path = texts/A00
-	url = git@bitbucket.org:eplib/A00.git
+	url = file:///C:/Users/natal/eebo_EPL/texts/A00
 [submodule "texts/A01"]
 	path = texts/A01
 	url = git@bitbucket.org:eplib/A01.git
